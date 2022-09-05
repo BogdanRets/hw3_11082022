@@ -332,6 +332,9 @@ a{
     box-shadow: 4px 4px 22px rgba(0, 0, 0, 0.12);
     border-radius: 12px;
 }
+.nnt{
+    border-radius: 12px;
+}
 .nam_opi{
     padding-top: 60px;
     width: 210px;
