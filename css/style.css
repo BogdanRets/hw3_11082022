@@ -120,9 +120,8 @@ a{
     color: #575757;
     padding-bottom: 36px;
 }
-.float_left.mark{
-    margin-left: -100px;
-    margin-right: 46px;
+.lel{
+    position: relative;
 }
 .auth_mark{
     width: 420px;
@@ -146,11 +145,15 @@ a{
     margin-right: 19px;
     position: relative;
 }
+.mark{
+    position: absolute;
+    top: 10px;
+}
 .auth_rel{
     width: 250px;
     position: absolute;
     padding-top: 20px;
-    left: 375px;
+    left: 160px;
 }
 .ctrelka{
     position: relative;
